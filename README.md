@@ -1,2 +1,28 @@
-# a00e81a0-pregnancy-baby-ab-testing-a
-Professional pregnancy baby WordPress plugin — without the professional price tag.  Compatible with all major WordPress themes and page builders. Fully documented admin settings panel — no code required for configuration.  ## What's Included  - Pregnancy &amp; Baby A/B Testing And Conversion Optimization — fully configured and ready to use - Clean admi
+# Pregnancy & Baby A/B Testing and Conversion Optimization WordPress Plugin
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core functionality | Yes | Yes |
+| Basic settings | Yes | Yes |
+| Standard widgets | Yes | Yes |
+| Advanced features | - | Yes |
+| Priority support | - | Yes |
+| Custom post types | - | Yes |
+| API access | - | Yes |
+| White-label option | - | Yes |
+| Multisite support | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/dRm7sL9z9f6Q2hibzScZD3t)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/dRm7sL9z9f6Q2hibzScZD3t)
+
